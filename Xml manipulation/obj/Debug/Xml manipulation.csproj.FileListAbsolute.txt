@@ -1,0 +1,7 @@
+C:\Users\Sparsh.Lotlikar\Desktop\Projects\Xml manipulation\bin\Debug\Xml manipulation.exe.config
+C:\Users\Sparsh.Lotlikar\Desktop\Projects\Xml manipulation\bin\Debug\Xml manipulation.exe
+C:\Users\Sparsh.Lotlikar\Desktop\Projects\Xml manipulation\bin\Debug\Xml manipulation.pdb
+C:\Users\Sparsh.Lotlikar\Desktop\Projects\Xml manipulation\obj\Debug\Xml manipulation.csprojAssemblyReference.cache
+C:\Users\Sparsh.Lotlikar\Desktop\Projects\Xml manipulation\obj\Debug\Xml manipulation.csproj.CoreCompileInputs.cache
+C:\Users\Sparsh.Lotlikar\Desktop\Projects\Xml manipulation\obj\Debug\Xml manipulation.exe
+C:\Users\Sparsh.Lotlikar\Desktop\Projects\Xml manipulation\obj\Debug\Xml manipulation.pdb

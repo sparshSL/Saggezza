@@ -1,0 +1,47 @@
+<service-request>
+  <service-id>XMLRating</service-id>
+  <request-id>123456789</request-id>
+  <data>
+    <RateRequest>
+      <Constraints>
+        <Mode />
+        <Contract />
+        <Carrier />
+        <ServiceFlags />
+        <Equipments />
+        <PaymentTerms />
+      </Constraints>
+      <ReferenceNumbers />
+      <Items>
+        <Item sequence="1" freightClass="55">
+          <Weight units="LBS">4</Weight>
+          <Quantity units="Pallets">2</Quantity>
+          <Dimensions length="8" width="8" height="8" units="IN" />
+          <HazardousMaterial>false</HazardousMaterial>
+        </Item>
+      </Items>
+      <Events>
+        <Event sequence="1" type="Pickup" date="09/15/2020 00:00">
+          <Location>
+            <LocationCode />
+            <City>EL CAJON</City>
+            <State>CA</State>
+            <Zip>92020</Zip>
+            <Country>USA</Country>
+          </Location>
+        </Event>
+        <Event sequence="2" type="Drop" date="09/18/2020 00:00">
+          <Location>
+            <LocationCode />
+            <City>OLIVE BRANCH</City>
+            <State>MS</State>
+            <Zip>38654</Zip>
+            <Country>USA</Country>
+          </Location>
+        </Event>
+      </Events>
+      <RatingLevel>ZZZ - GS Customer Test</RatingLevel>
+      <ReturnAssociatedCarrierPricesheet>true</ReturnAssociatedCarrierPricesheet>
+    </RateRequest>
+  </data>
+</service-request>
